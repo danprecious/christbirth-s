@@ -51,8 +51,8 @@ const HomePage = () => {
             Dearest <strong> Abraham,</strong>
           </p>
           <p className="">
-            It is my greatest pleasure to write this to you. In you, I've found
-            peace and joy; you've been a profound influence in my life, my alter
+            It is my greatest pleasure to write this to you. In you, I&apos;ve found
+            peace and joy; you&apos;ve been a profound influence in my life, my alter
             ego. You are a very special friend that I cherish. I just want to
             wish you a very happy birthday and pray that this day brings you
             endless joy and blessings. I love you so much babe, and I pray God
